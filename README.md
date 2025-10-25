@@ -1,4 +1,4 @@
-# ICD10 Tagging of Cinical Codeing
+# ICD10 Tagging of Cinical Documents
 
 This repository contains the complete work for my Master's Thesis project conducted at IIT Chicago. This thesis represents a significant research effort, culminating in a comprehensive study and implementation.
 
