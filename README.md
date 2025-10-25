@@ -1,4 +1,4 @@
-# Master's Thesis Project - IIT Chicago
+# ICD10 Code Analysis 
 
 This repository contains the complete work for my Master's Thesis project conducted at IIT Chicago. This thesis represents a significant research effort, culminating in a comprehensive study and implementation.
 
